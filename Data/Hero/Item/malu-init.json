@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "name": "Arco curto",
+      "type": "Weapon",
+      "slot": "TwoHands",
+      "precision": 4,
+      "usedBy": [
+        "Archer"
+      ],
+      "effect": "1-5",
+      "isEquipped": true
+    }
+  ]
+}

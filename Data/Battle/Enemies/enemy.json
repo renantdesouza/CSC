@@ -1,0 +1,26 @@
+{
+  "enemies": [
+    {
+      "name": "Bisão",
+      "image": "BisaoEuropeu-1",
+      "totalHp": 25,
+      "currentHp": 25,
+      "level": 4,
+      "effect": "2-8",
+      "precision": 6,
+      "armor": 2,
+      "type": "IRRATIONAL"
+    },
+    {
+      "name": "Javali",
+      "image": "Javali-1",
+      "totalHp": 10,
+      "currentHp": 10,
+      "level": 2,
+      "effect": "1-5",
+      "precision": 5,
+      "armor": 3,
+      "type": "IRRATIONAL"
+    }
+  ]
+}

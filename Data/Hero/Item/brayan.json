@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "name": "Cajado de druida",
+      "image": "basico_-1",
+      "type": "Weapon",
+      "slot": "RightHand",
+      "precision": 15,
+      "usedBy": [
+        "Druid"
+      ],
+      "effect": "2-5",
+      "isEquipped": true
+    }
+  ]
+}

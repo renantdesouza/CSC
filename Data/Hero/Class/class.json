@@ -1,0 +1,20 @@
+{
+  "classes": [
+    {
+      "name": "Warrior",
+      "hpByLevel": 12
+    },
+    {
+      "name": "Archer",
+      "hpByLevel": 8
+    },
+    {
+      "name": "Druid",
+      "hpByLevel": 8
+    },
+    {
+      "name": "Villager",
+      "hpByLevel": 0
+    }
+  ]
+}

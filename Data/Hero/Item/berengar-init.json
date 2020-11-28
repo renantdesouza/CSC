@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "name": "Machado de cobre",
+      "type": "Weapon",
+      "slot": "OneHand",
+      "precision": 4,
+      "usedBy": [
+        "Warrior"
+      ],
+      "effect": "2-4",
+      "isEquipped": true
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "items": [
+    {
+      "name": "Escudo de madeira pequeno",
+      "image": "basico_-1",
+      "type": "Shield",
+      "slot": "OneArm",
+      "precision": null,
+      "usedBy": [
+        "Warrior",
+        "Archer",
+        "Druid"
+      ],
+      "effect": "2",
+      "isEquipped": false
+    },
+    {
+      "name": "Escudo de madeira",
+      "image": "basico_-1",
+      "type": "Shield",
+      "slot": "OneArm",
+      "precision": null,
+      "usedBy": [
+        "Warrior",
+        "Archer",
+        "Druid"
+      ],
+      "effect": "4",
+      "isEquipped": false
+    },
+    {
+      "name": "Escudo de madeira grande",
+      "image": "basico_-1",
+      "type": "Shield",
+      "slot": "OneArm",
+      "precision": null,
+      "usedBy": [
+        "Warrior",
+        "Archer",
+        "Druid"
+      ],
+      "effect": "2",
+      "isEquipped": false
+    },
+    {
+      "name": "Pé de coelho",
+      "image": "basico_-1",
+      "type": "Accessory",
+      "slot": "Bag",
+      "precision": null,
+      "usedBy": [
+        "Warrior",
+        "Archer",
+        "Druid"
+      ],
+      "effect": "Empate vai para o ataque",
+      "isEquipped": false
+    },
+    {
+      "name": "Sapatos lépidos",
+      "image": "basico_-1",
+      "type": "Accessory",
+      "slot": "TwoFoots",
+      "precision": null,
+      "usedBy": [
+        "Archer"
+      ],
+      "effect": "+2 de escudo",
+      "isEquipped": false
+    },
+    {
+      "name": "Elmo reluzente",
+      "image": "basico_-1",
+      "type": "Accessory",
+      "slot": "Head",
+      "precision": null,
+      "usedBy": [
+        "Warrior"
+      ],
+      "effect": "+2 de armadura",
+      "isEquipped": false
+    },
+    {
+      "name": "Algibeira mágica",
+      "image": "basico_-1",
+      "type": "Accessory",
+      "slot": "Waist",
+      "precision": null,
+      "usedBy": [
+        "Druid"
+      ],
+      "effect": "A cada batalha, dá + 1 uso de uma skill ativa aleatória",
+      "isEquipped": false
+    },
+    {
+      "name": "Armadura de couro",
+      "image": "basico_-1",
+      "type": "Armor",
+      "slot": "Body",
+      "precision": null,
+      "usedBy": [
+        "Warrior",
+        "Archer",
+        "Druid"
+      ],
+      "effect": "4",
+      "isEquipped": false
+    },
+    {
+      "name": "Armadura de couro duro",
+      "image": "basico_-1",
+      "type": "Armor",
+      "slot": "Body",
+      "precision": null,
+      "usedBy": [
+        "Warrior",
+        "Archer",
+        "Druid"
+      ],
+      "effect": "6",
+      "isEquipped": false
+    },
+    {
+      "name": "Armadura de couro reforçada",
+      "image": "basico_-1",
+      "type": "Armor",
+      "slot": "Body",
+      "precision": null,
+      "usedBy": [
+        "Warrior",
+        "Archer",
+        "Druid"
+      ],
+      "effect": "8",
+      "isEquipped": false
+    },
+    {
+      "name": "Brúnia de cobre",
+      "image": "basico_-1",
+      "type": "Armor",
+      "slot": "Body",
+      "precision": null,
+      "usedBy": [
+        "Warrior"
+      ],
+      "effect": "6",
+      "isEquipped": false
+    },
+    {
+      "name": "Brúnia de bronze",
+      "image": "basico_-1",
+      "type": "Armor",
+      "slot": "Body",
+      "precision": null,
+      "usedBy": [
+        "Warrior"
+      ],
+      "effect": "9",
+      "isEquipped": false
+    },
+    {
+      "name": "Brúnia de ferro",
+      "image": "basico_-1",
+      "type": "Armor",
+      "slot": "Body",
+      "precision": null,
+      "usedBy": [
+        "Warrior"
+      ],
+      "effect": "12",
+      "isEquipped": false
+    },
+    {
+      "name": "Machado de cobre",
+      "image": "basico_-1",
+      "type": "Weapon",
+      "slot": "OneHand",
+      "precision": 6,
+      "usedBy": [
+        "Warrior"
+      ],
+      "effect": "2-4",
+      "isEquipped": false
+    },
+    {
+      "name": "Machado de bronze",
+      "image": "basico_-1",
+      "Type": "Weapon",
+      "slot": "OneHand",
+      "precision": 12,
+      "usedBy": [
+        "Warrior"
+      ],
+      "effect": "4-8",
+      "isEquipped": false
+    },
+    {
+      "name": "Machado de ferro",
+      "image": "basico_-1",
+      "Type": "Weapon",
+      "slot": "OneHand",
+      "precision": 18,
+      "usedBy": [
+        "Warrior"
+      ],
+      "effect": "16-12",
+      "isEquipped": false
+    },
+    {
+      "name": "Arco curto",
+      "image": "basico_-1",
+      "Type": "Weapon",
+      "slot": "TwoHands",
+      "precision": 6,
+      "usedBy": [
+        "Archer"
+      ],
+      "effect": "1-5",
+      "isEquipped": false
+    },
+    {
+      "name": "Arco de caça",
+      "image": "basico_-1",
+      "Type": "Weapon",
+      "slot": "TwoHands",
+      "precision": 12,
+      "usedBy": [
+        "Archer"
+      ],
+      "effect": "4-8",
+      "isEquipped": false
+    },
+    {
+      "name": "Arco longo",
+      "image": "basico_-1",
+      "Type": "Weapon",
+      "slot": "TwoHands",
+      "precision": 18,
+      "usedBy": [
+        "Archer"
+      ],
+      "effect": "6-12",
+      "isEquipped": false
+    },
+    {
+      "name": " Besta de cobre",
+      "image": "basico_-1",
+      "Type": "Weapon",
+      "slot": "RightHand",
+      "precision": 6,
+      "usedBy": [
+        "Archer"
+      ],
+      "effect": "1-3",
+      "isEquipped": false
+    },
+    {
+      "name": "Besta de bronze",
+      "image": "basico_-1",
+      "Type": "Weapon",
+      "slot": "RightHand",
+      "precision": 12,
+      "usedBy": [
+        "Archer"
+      ],
+      "effect": "2-6",
+      "isEquipped": false
+    },
+    {
+      "name": "Besta de ferro",
+      "image": "basico_-1",
+      "Type": "Weapon",
+      "slot": "RightHand",
+      "precision": 18,
+      "usedBy": [
+        "Archer"
+      ],
+      "effect": "3-9",
+      "isEquipped": false
+    },
+    {
+      "name": "Cajado de druida",
+      "image": "basico_-1",
+      "Type": "Weapon",
+      "slot": "RightHand",
+      "precision": 15,
+      "usedBy": [
+        "Druid"
+      ],
+      "effect": "2-5",
+      "isEquipped": false
+    },
+    {
+      "name": "Foice de cobre",
+      "image": "basico_-1",
+      "Type": "Weapon",
+      "slot": "OneHand",
+      "precision": 6,
+      "usedBy": [
+        "Druid"
+      ],
+      "effect": "1-3",
+      "isEquipped": false
+    },
+    {
+      "name": "Foice de bronze",
+      "image": "basico_-1",
+      "Type": "Weapon",
+      "slot": "OneHand",
+      "precision": 12,
+      "usedBy": [
+        "Druid"
+      ],
+      "effect": "2-6",
+      "isEquipped": false
+    },
+    {
+      "name": "Foice de ferro",
+      "image": "basico_-1",
+      "Type": "Weapon",
+      "slot": "OneHand",
+      "precision": 18,
+      "usedBy": [
+        "Druid"
+      ],
+      "effect": "3-9",
+      "isEquipped": false
+    }
+  ]
+}
