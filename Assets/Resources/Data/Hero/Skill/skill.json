@@ -1,0 +1,832 @@
+{
+  "skills": [
+    {
+      "name": "Treinamento básico",
+      "usedBy":[
+        "Warrior",
+        "Druid",
+        "Archer"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": "+1",
+        "hp": "+1",
+        "precision": "+1",
+        "regeneration": null,
+        "extra": null
+      },
+      "requirement": null,
+      "type": "passive",
+      "description": "Dá + 1 de esquiva, precisão e hp."
+    },
+    {
+      "name": "Treinamento ofensivo",
+      "usedBy":[
+        "Warrior",
+        "Druid",
+        "Archer"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": "+2",
+        "dodge": null,
+        "hp": null,
+        "precision": "+2",
+        "regeneration": null,
+        "extra": null
+      },
+      "requirements": [
+        "Treinamento básico"
+      ],
+      "type": "passive",
+      "description": "Dá + 2 de esquiva, precisão."
+    },
+    {
+      "name": "Brutalidade",
+      "usedBy":[
+        "Warrior",
+        "Druid",
+        "Archer"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": "+5",
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": null
+      },
+      "requirements": [
+        "Treinamento ofensivo"
+      ],
+      "type": "passive",
+      "description": "Dá + 5 de dano."
+    },
+    {
+      "name": "Treinamento de anatomia",
+      "usedBy":[
+        "Warrior",
+        "Druid",
+        "Archer"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": "+5",
+        "regeneration": null,
+        "extra": null
+      },
+      "requirements": [
+        "Treinamento ofensivo"
+      ],
+      "type": "passive",
+      "description": "Dá + 5 de precisão."
+    },
+    {
+      "name": "Resistência aprimorada",
+      "usedBy":[
+        "Warrior",
+        "Druid",
+        "Archer"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": "+1/level",
+        "precision": null,
+        "regeneration": "+2",
+        "extra": null
+      },
+      "requirements": [
+        "Treinamento básico"
+      ],
+      "type": "passive",
+      "description": "Dá + 1 de hp por nível e +2 de regeneração."
+    },
+    {
+      "name": "Vigor bárbaro",
+      "usedBy":[
+        "Warrior",
+        "Druid",
+        "Archer"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": "+2/level",
+        "precision": null,
+        "regeneration": null,
+        "extra": null
+      },
+      "requirements": [
+        "Resistência aprimorada"
+      ],
+      "type": "passive",
+      "description": "Dá + 2 de hp por nível."
+    },
+    {
+      "name": "Metabolismo de alto rendimento",
+      "usedBy":[
+        "Warrior",
+        "Druid",
+        "Archer"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": "+5",
+        "extra": null
+      },
+      "requirements": [
+        "Resistência aprimorada"
+      ],
+      "type": "passive",
+      "description": "Dá + 5 de regeneração."
+    },
+    {
+      "name": "Treinamento defensivo",
+      "usedBy":[
+        "Warrior",
+        "Druid",
+        "Archer"
+      ],
+      "effect": {
+        "armor": "+2",
+        "damage": null,
+        "dodge": "+2",
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": null
+      },
+      "requirements": [
+        "Treinamento básico"
+      ],
+      "type": "passive",
+      "description": "Dá + 2 de armadura e +2 de esquiva."
+    },
+    {
+      "name": "Reflexos de combate",
+      "usedBy":[
+        "Warrior",
+        "Druid",
+        "Archer"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": "+5",
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": null
+      },
+      "requirements": [
+        "Treinamento defensivo"
+      ],
+      "type": "passive",
+      "description": "Dá + 5 de esquiva."
+    },
+    {
+      "name": "Pele calejada",
+      "usedBy":[
+        "Warrior",
+        "Druid",
+        "Archer"
+      ],
+      "effect": {
+        "armor": "+5",
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": null
+      },
+      "requirements": [
+        "Treinamento defensivo"
+      ],
+      "type": "passive",
+      "description": "Dá + 5 de armadura."
+    },
+    {
+      "name": "Berro colérico",
+      "usedBy":[
+        "Warrior"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "Gasta um turno e o próximo ataque de todos os seus inimigos tem -1 precisão."
+      },
+      "requirement": null,
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Ataque com postura defensiva",
+      "usedBy":[
+        "Warrior"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "-25% de dano  no turno atual. no próximo turno +25% armadura +25% esquiva"
+      },
+      "requirements": [
+        "Berro colérico"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Postura de contra ataque",
+      "usedBy":[
+        "Warrior"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "No turno atual você se posiciona em defesa, mas todos os ataques recebidos até o próximo turno, você ataca de volta com a pontuação do seu ataque básico"
+      },
+      "requirements": [
+        "Ataque com postura defensiva"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Sacrifício",
+      "usedBy":[
+        "Warrior"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "Qualquer ataque direcionado  a outro personagem é direcionado ao guerreiro"
+      },
+      "requirements": [
+        "Ataque com postura defensiva"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Golpe duplo",
+      "usedBy":[
+        "Warrior"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "2 ataques básicos contra um inimigo especifico"
+      },
+      "requirements": [
+        "Berro colérico"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Ataque destruidor",
+      "usedBy":[
+        "Warrior"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "(Ataque básico)*3"
+      },
+      "requirements": [
+        "Golpe duplo"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Golpe lascerante",
+      "usedBy":[
+        "Warrior"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "Ataque básico + debuff 2 dano True damage por 5 rodadas"
+      },
+      "requirements": [
+        "Golpe duplo"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Derrubar",
+      "usedBy":[
+        "Warrior"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "Você gasta o seu turno e faz o seu inimigo perder o dele"
+      },
+      "requirements": [
+        "Berro colérico"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Golpe atordoante",
+      "usedBy":[
+        "Warrior"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "Causa dano entre 100% e 150% do ataque básico e impede o seu inimigo de atacar no próximo turno"
+      },
+      "requirements": [
+        "Derrubar"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Furor de batalha",
+      "usedBy":[
+        "Warrior"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "Você perde o seu turno, +2dano +2 armadura de seu time no próximo  turno"
+      },
+      "requirements": [
+        "Derrubar"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Comunhão",
+      "usedBy":[
+        "Druid"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "Gasta um turno e a próxima skill utilizada receberá um bônus de acordo com o seu tipo, o buffer e o debuffer aumentam uma rodada de duração, para cura de múltiplos alvos aumenta metade do seu nível, para alvo único, aumenta o seu nível"
+      },
+      "requirement": null,
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Comunhão",
+      "usedBy":[
+        "Druid"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "Gasta um turno e a próxima skill utilizada receberá um bônus de acordo com o seu tipo, o buffer e o debuffer aumentam uma rodada de duração, para cura de múltiplos alvos aumenta metade do seu nível, para alvo único, aumenta o seu nível"
+      },
+      "requirement": null,
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Purificação",
+      "usedBy":[
+        "Druid"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "Remove todos os status negativos dos aliados"
+      },
+      "requirement": null,
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Benção",
+      "usedBy":[
+        "Druid"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "Todos os aliados recebem cura de valor igual ao 10+nível do druida"
+      },
+      "requirements": [
+        "Purificação"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Revigorar",
+      "usedBy":[
+        "Druid"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "Um aliado recebe cura igual a 10+5*nível do druida."
+      },
+      "requirements": [
+        "Purificação"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Profanação",
+      "usedBy":[
+        "Druid"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "Remove todos os status positive de seus inimigos"
+      },
+      "requirements": [
+        "Comunhão"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Agourar",
+      "usedBy":[
+        "Druid"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "6 de dano de todos os seus inimigos e - 4 precisão  durante 1 turno"
+      },
+      "requirements": [
+        "Profanação"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Abalar",
+      "usedBy":[
+        "Druid"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "6 de dano de todos os seus inimigos e - 4 precisão  durante 1 turno"
+      },
+      "requirements": [
+        "Profanação"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Fortalecer",
+      "usedBy":[
+        "Druid"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "+8 precisão e +4 de dano a um aliado, durante 1 turno"
+      },
+      "requirements": [
+        "Comunhão"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Fortificar",
+      "usedBy":[
+        "Druid"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "+5 esquiva +5 armadura a todos os aliados, durante 2 turno"
+      },
+      "requirements": [
+        "Fortalecer"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Barreira de espinhos",
+      "usedBy":[
+        "Druid"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "Todos os seus aliados refletem 20% do dano que receberam neste turno, durante 3 turnos"
+      },
+      "requirements": [
+        "Fortalecer"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Mira precisa",
+      "usedBy":[
+        "Archer"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "Gasta uma rodada e na próximo, +2 precisão e +2 dano"
+      },
+      "requirement": null,
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Tiro duplo",
+      "usedBy":[
+        "Archer"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "Dois tiros com o mesmo poder de fogo do ataque básico, atinge aleatoriamente"
+      },
+      "requirements": [
+        "Mira precisa"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Saraívada",
+      "usedBy":[
+        "Archer"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "Cinco tiros com o mesmo poder de fogo do ataque básico, atinge aleatoriamente"
+      },
+      "requirements": [
+        "Tiro duplo"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Tiro múltiplo",
+      "usedBy":[
+        "Archer"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "Todos os inimigos recebem um tiro com o mesmo poder de fogo do ataque básico"
+      },
+      "requirements": [
+        "Tiro duplo"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Tiro venenoso",
+      "usedBy":[
+        "Archer"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "No turno atual tira o mesmo que o poder de fogo do ataque básico, nos próximos turnos 5 turnos causa 3 pontos de dano em um inimigo"
+      },
+      "requirements": [
+        "Mira precisa"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Tiro tóxico",
+      "usedBy":[
+        "Archer"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "No turno atual tira o mesmo que o poder de fogo do ataque básico de um inimigo, todos os outros inimigos sofrem 3 pontos de dado durante 5 turnos"
+      },
+      "requirements": [
+        "Tiro venenoso"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Veneno minguante",
+      "usedBy":[
+        "Archer"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "No turno atual tira o mesmo que o poder de fogo do ataque básico, nos próximos 5 turnos causa 4 pontos de dano e -2dano, -2armadura, -2 precisão -2 esquiva em um inimigo"
+      },
+      "requirements": [
+        "Tiro tóxico"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Tiro de fogo",
+      "usedBy":[
+        "Archer"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "No turno atual tira o mesmo que o poder de fogo do ataque básico, nos próximos 5 turnos causa 4 pontos de dano e -2dano, -2armadura, -2 precisão -2 esquiva em um inimigo"
+      },
+      "requirements": [
+        "Mira precisa"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Jarro de óleo",
+      "usedBy":[
+        "Archer"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "Inflinge um debuff em todos os inimigos, que fará com que no próximo tiro de fogo, ou tiro incandescente, independente do alvo, todos peguem fogo, causando 5 pontos de dano nos próximos 3 turnos"
+      },
+      "requirements": [
+        "Tiro de fogo"
+      ],
+      "type": "active",
+      "description": null
+    },
+    {
+      "name": "Tiro incandescente",
+      "usedBy":[
+        "Archer"
+      ],
+      "effect": {
+        "armor": null,
+        "damage": null,
+        "dodge": null,
+        "hp": null,
+        "precision": null,
+        "regeneration": null,
+        "extra": "Inflinge um debuff em todos os inimigos, que fará com que no próximo tiro de fogo, ou tiro incandescente, independente do alvo, todos peguem fogo, causando 5 pontos de dano nos próximos 3 turnos"
+      },
+      "requirements": [
+        "Tiro de fogo"
+      ],
+      "type": "active",
+      "description": null
+    }
+  ]
+}

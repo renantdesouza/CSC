@@ -1,0 +1,100 @@
+﻿{
+  "decisions": [
+    {
+      "options": [
+        {
+          "key": "Observar",
+          "action": "GoToObserveChoice"
+        },
+        {
+          "key": "Perguntar o que aconteceu",
+          "action": "GoToAskArlene"
+        },
+        {
+          "key":  "Repreender Lana",
+          "action": "GoToReproach"
+        }
+      ]
+    },
+    {
+      "options": [
+        {
+          "key": "Perguntar o que aconteceu",
+          "action": "GoToAskArlene"
+        },
+        {
+          "key":  "Voltar para a vila",
+          "action": "GoToVillage"
+        }
+      ]
+    },
+    {
+      "options": [
+        {
+          "key": "Salvar a criança",
+          "action": "GoToSaveChild"
+        },
+        {
+          "key":  "Salvar Ambos",
+          "action": "GoToSaveBoth"
+        }
+      ]
+    },
+    {
+      "options": [
+        {
+          "key": "Tem razão",
+          "action": "GoToYouAreRight"
+        },
+        {
+          "key":  "Não é problema meu",
+          "action": "GoToItIsNotMyProblem"
+        }
+      ]
+    },
+    {
+      "options": [
+        {
+          "key": "Sim! Teria sido!",
+          "action": "GoToYesItWouldHaveBeen"
+        },
+        {
+          "key": "O que houve?",
+          "action": "GoToWhatHappened"
+        },
+        {
+          "key": "Não se preocupe",
+          "action": "GoToDoNotWorry"
+        }
+      ]
+    },
+    {
+      "options": [
+        {
+          "key": "Tolo!",
+          "action": "GoToFool"
+        },
+        {
+          "key": "Mas é preciso",
+          "action": "GoToIsNecessary"
+        },
+        {
+          "key": "Não há o que se possa fazer?",
+          "action": "GoToThereIsNothingYouCanDo"
+        }
+      ]
+    },
+    {
+      "options`": [
+        {
+          "key": "Me desculpe.",
+          "action": "GoToSorry"
+        },
+        {
+          "key": "Pois que se dane!",
+          "action": "GoToDamnIt"
+        }
+      ]
+    }
+  ]
+}

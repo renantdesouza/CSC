@@ -1,0 +1,168 @@
+{
+  "skills": [
+    {
+      "name": "Treinamento básico",
+      "image": "TreinamentoBasico"
+    },
+    {
+      "name": "Treinamento ofensivo",
+      "image": "TreinamentoOfensivo"
+    },
+    {
+      "name": "Brutalidade",
+      "image": "Brutalidade"
+    },
+    {
+      "name": "Treinamento de anatomia",
+      "image": "ConhecimentoDeAnatomia"
+    },
+    {
+      "name": "Resistência aprimorada",
+      "image": "ResistenciaAprimorada"
+    },
+    {
+      "name": "Vigor bárbaro",
+      "image": "VigorBarbaro"
+    },
+    {
+      "name": "Metabolismo de alto rendimento",
+      "image": "MetabolismoDeAltoRendimento"
+    },
+    {
+      "name": "Treinamento defensivo",
+      "image": "TreinamentoDefensivo"
+    },
+    {
+      "name": "Reflexos de combate",
+      "image": "ReflexosDeCombate"
+    },
+    {
+      "name": "Pele calejada",
+      "image": "PeleCalejada"
+    },
+    {
+      "name": "Berro colérico",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Ataque com postura defensiva",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Postura de contra ataque",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Sacrifício",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Golpe duplo",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Ataque destruidor",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Golpe lascerante",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Derrubar",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Golpe atordoante",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Furor de batalha",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Comunhão",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Comunhão",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Purificação",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Benção",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Revigorar",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Profanação",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Agourar",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Abalar",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Fortalecer",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Fortificar",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Barreira de espinhos",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Mira precisa",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Tiro duplo",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Saraívada",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Tiro múltiplo",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Tiro venenoso",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Tiro tóxico",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Veneno minguante",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Tiro de fogo",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Jarro de óleo",
+      "image": "AnonSkill"
+    },
+    {
+      "name": "Tiro incandescente",
+      "image": "AnonSkill"
+    }
+  ]
+}

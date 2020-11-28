@@ -1,0 +1,84 @@
+{
+  "battles": [
+    {
+      "background": "floresta certa",
+      "backgroundSound": "Tensao",
+      "colorMenu": "2CDAC5",
+      "gameOverRule": "WHEN_SOMEONE_DIES",
+      "whereToGoWhenTheBattleIsOver": "VisualNovel",
+      "rules": [
+        {
+          "name": "bear",
+          "time": "AFTER_ENEMY_ATTACK"
+        }
+      ],
+      "players": [
+        {
+          "thumbnail": "GuerreiroMachado",
+          "name": "Berengar",
+          "isPresent": true
+        },
+        {
+          "thumbnail": "Arqueira",
+          "name": "Malu",
+          "isPresent": false
+        }
+      ],
+      "enemies": [
+        {
+          "name": "Bear",
+          "image": "UrsoLevantado",
+          "totalHp": 10,
+          "currentHp": 10,
+          "level": 2,
+          "effect": "1-3",
+          "precision": 3,
+          "type": "IRRATIONAL",
+          "isPresent": true
+        }
+      ],
+      "battleType": "",
+      "isAlreadyExecuted": false
+    },
+    {
+      "background": "floresta certa",
+      "backgroundSound": "Tensao",
+      "colorMenu": "2CDAC5",
+      "gameOverRule": "WHEN_SOMEONE_DIES",
+      "whereToGoWhenTheBattleIsOver": "VisualNovel",
+      "rules": [
+        {
+          "name": "wolf",
+          "time": "BEFORE_ENEMY_ATTACK"
+        }
+      ],
+      "players": [
+        {
+          "thumbnail": "GuerreiroMachado",
+          "name": "Berengar",
+          "isPresent": true
+        },
+        {
+          "thumbnail": "Arqueira",
+          "name": "Malu",
+          "isPresent": true
+        }
+      ],
+      "enemies": [
+        {
+          "name": "Lobo",
+          "image": "Lobinho-1",
+          "totalHp": 15,
+          "currentHp": 15,
+          "level": 2,
+          "effect": "1-4",
+          "precision": 4,
+          "type": "IRRATIONAL",
+          "isPresent": true
+        }
+      ],
+      "battleType": "",
+      "isAlreadyExecuted": false
+    }
+  ]
+}

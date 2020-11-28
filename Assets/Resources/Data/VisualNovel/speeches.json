@@ -1,0 +1,1119 @@
+{
+  "speeches":  [
+    {
+      "background": "taverna",
+      "backgroundSound": "Tranquila",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name":  "Berengar"
+      },
+      "value": "Amanh\u00E3 fazem 12 anos que ela morreu"
+    },
+    {
+      "background": "taverna",
+      "speaker": {
+        "portrait": "FaceRenan",
+        "name": "Renan"
+      },
+      "value": "Mas tamb\u00E9m \u00E9 o anivers\u00E1rio de 12 anos de sua filha, voc\u00EA deveria estar feliz por ela, ou ao menos tentar. Deix\u00E1-la preocupada em dia especial n\u00E3o far\u00E1 bem a ela."
+    },
+    {
+      "background": "taverna",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Eu sei, mas voc\u00EA sabe como \u00E9, todo ano essa data me divide."
+    },
+    {
+      "background": "taverna",
+      "speaker": {
+        "portrait": "FaceRenan",
+        "name": "Renan"
+      },
+      "value": "(Risos) Sim, todo ano a mesma ladainha. Voc\u00EA precisa beber mais amigo, amanh\u00E3 voc\u00EA vera as coisas v\u00E3o resolver.",
+      "event":  {
+        "type":  "SOUND",
+        "value":  "riso"
+      }
+    },
+    {
+      "background": "taverna",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Ao menos por amanh\u00E3 (Risos)",
+      "event": {
+        "type": "SOUND",
+        "value": "riso2"
+      }
+    },
+    {
+      "background": "taverna",
+      "speaker": {
+        "portrait": "FaceRenan",
+        "name": "Renan"
+      },
+      "value": "Eu sei que isto te abala, mas ao partir ela at\u00E9 deixou um presente, n\u00E3o desperdice o que te restou. Lana \u00E9 uma menina linda, logo ser\u00E1 uma mulher igual sua m\u00E3e foi, n\u00E3o se perca no passado, sua vida est\u00E1 diante de voc\u00EA."
+    },
+    {
+      "background": "taverna",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": "Eu sabia que voc\u00EA estaria aqui! Todo ano \u00E1 a mesma coisa, amanh\u00E3 \u00E9 o anivers\u00E1rio de sua filha! Vamos embora seu maldito b\u00EAbado! Se continuar enchendo a cara assim n\u00E3o vai estar em condi\u00E7\u00F5es para o que ser\u00E1 o dia de amanh\u00E3."
+    },
+    {
+      "background": "taverna",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "E por que tanta expectativa? \u00C9 s\u00F3 mais um anivers\u00E1rio, muitos outros ainda vir\u00E3o."
+    },
+    {
+      "background": "taverna",
+      "speaker":  {
+        "portrait": "FaceMalu",
+        "name":  "Malu"
+      },
+      "value": "(Derruba as bebidas do balc\u00E3o) N\u00E3o interessa! Odeio discutir com voc\u00EA quando est\u00E1 assim, mas fa\u00E7o isso pela Lana.",
+      "event":  {
+        "type":  "SOUND",
+        "value": "vidro"
+      }
+    },
+    {
+      "event":  {
+        "type": "TRANSITION",
+        "value": "transition0.json"
+      }
+    },
+    {
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceLana",
+        "name": "Lana"
+      },
+      "value": "Acorda papai! A tia Malu j\u00E1 est\u00E1 aqui!"
+    },
+    {
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "O que? Mas j\u00E1? O que ela faz aqui?"
+    },
+    {
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": "Vamos logo seu molenga! N\u00E3o temos o dia todo!"
+    },
+    {
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceLana",
+        "name": "Lana"
+      },
+      "value": "Tia Malu disse que n\u00F3s vamos colher morangos! Vamos logo papai!"
+    },
+    {
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Est\u00E1 bem. \u00C9 o seu dia afinal."
+    },
+    {
+      "event": {
+        "type": "TRANSITION",
+        "value": "transition0.json"
+      }
+    },
+    {
+      "background": "plains",
+      "speaker": {
+        "portrait": "FaceLana",
+        "name": "Lana"
+      },
+      "value": "Olha papai! Um Coelho!"
+    },
+    {
+      "background": "plains",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": "Ah, que bonitinho!"
+    },
+    {
+      "background": "plains",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "\u00C9 verdade, as criaturas da natureza s\u00E3o maravilhosas."
+    },
+    {
+      "event": {
+        "type": "TRANSITION",
+        "value": "transition0.json"
+      }
+    },
+    {
+      "background": "plains",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Ei! Onde você vai? Temos muito o que fazer ainda! Volte aqui!"
+    },
+    {
+      "background": "plains",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": "Ora n\u00E3o seja um chato, ela s\u00F3 est\u00E1 se divertindo"
+    },
+    {
+      "background": "plains",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Mas o bosque é perigoso, ela pode se machucar!"
+    },
+    {
+      "background": "plains",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": " Chaaaatooo!"
+    },
+    {
+      "event": {
+        "type": "TRANSITION",
+        "value": "transition0.json"
+      }
+    },
+    {
+      "event": {
+        "type": "BATTLE",
+        "value": "battle0.json"
+      }
+    },
+    {
+      "background": "floresta certa",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": " Voc\u00EA est\u00E1 bem?"
+    },
+    {
+      "background": "floresta certa",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": " Eu estou, mas cad\u00EA a Lana?"
+    },
+    {
+      "background": "floresta certa",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": " Ai meu deus!"
+    },
+    {
+      "backgroundSound": "Triste",
+      "event": {
+        "type": "TRANSITION",
+        "value": "transition0.json"
+      }
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "event": {
+        "type": "DECISION",
+        "value": "0"
+      }
+    },
+    {
+      "background": "vila barbara",
+      "backgroundSound": "Tensao",
+      "speaker": {
+        "portrait": "FaceLana",
+        "name": "Lana"
+      },
+      "value": "Como um piquenique papai?"
+    },
+    {
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Sim filha, mas um piquenique s\u00F3 para homens."
+    },
+    {
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceLana",
+        "name": "Lana"
+      },
+      "value": "Voc\u00EA faz muito essas coisas de homem papai, eu gosto mais quando sa\u00EDmos todos juntos."
+    },
+    {
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "N\u00E3o se preocupe filha, depois que eu voltar, faremos um piquenique s\u00F3 n\u00F3s dois, mas agora eu preciso que voc\u00EA esteja aqui para proteger nossa casa."
+    },
+    {
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceLana",
+        "name": "Lana"
+      },
+      "value": "Proteger?"
+    },
+    {
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Sim filha! S\u00F3 uma garota forte e corajosa como voc\u00EA pode proteger a casa enquanto esses homens bobos est\u00E3o fora."
+    },
+    {
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceLana",
+        "name": "Lana"
+      },
+      "value": "N\u00E3o se preocupe papai, eu sou muito mais corajosa que qualquer homem bobo!"
+    },
+    {
+      "backgroundSound": "Aventura",
+      "event": {
+        "type": "TRANSITION",
+        "value": "transition0.json"
+      }
+    },
+    {
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceLana",
+        "name": "Lana"
+      },
+      "value": "Papai! Nos campos de Blumen n\u00E3o \u00E9 onde crescem as flores lijk?"
+    },
+    {
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Tem raz\u00E3o filha, essas flores at\u00E9 onde me lembro crescem apenas nos campos Blumen."
+    },
+    {
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceLana",
+        "name": "Lana"
+      },
+      "value": "Dizem que elas s\u00E3o t\u00E3o lindas! Eu gostaria muito de poder ver essas flores algum dia."
+    },
+    {
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Pois ent\u00E3o eu trarei lijks quando eu voltar, voc\u00EA ver\u00E1 como elas s\u00E3o t\u00E3o belas quanto voc\u00EA."
+    },
+    {
+      "backgroundSound": "Tensao",
+      "event": {
+        "type": "TRANSITION",
+        "value": "transition0.json"
+      }
+    },
+    {
+      "backgroundSound": "Triste",
+      "background": "plains",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Ainda estamos longe! A dist\u00E2ncia \u00E9 trai\u00E7oeira! Tudo h\u00E1 de estar bem! Estou muito perturbado com toda essa loucura, devo estar vendo os fantasma de meu medo. certamente tudo estar\u00E1 em ordem quando findar-mos essa jornada de loucura!"
+    },
+    {
+      "event": {
+        "type": "TRANSITION",
+        "value": "transition0.json"
+      }
+    },
+    {
+      "event": {
+        "type": "GOTO",
+        "value": "GoToTheDeathOfLana"
+      }
+    },
+    {
+      "event": {
+        "type": "TRANSITION",
+        "value": "transition0.json"
+      }
+    },
+    {
+      "event": {
+        "type": "DECISION",
+        "value": "1"
+      }
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": "Foi muito bonito da sua parte ajudar aquelas pessoas Lana"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "event": {
+        "type": "DECISION",
+        "value": "1"
+      }
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceArlene",
+        "name": "Arlene"
+      },
+      "value": "Eles vieram pela noite, a maioria de n\u00F3s est\u00E1vamos dormindo, fomos pegos desprevenidos mataram os vigias e atearam fogo nas casas, foram mortos na batalha."
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceArlene",
+        "name": "Arlene"
+      },
+      "value": "Levaram nossa comida e nosso ouro, quase nada nos restou, a maioria dos que sobreviveram fugiram, mas enquanto corria para salvar a mim e a meu filho,"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceArlene",
+        "name": "Arlene"
+      },
+      "value": "cai com o joelho em uma pedra. Falei para ele nos deixar aqui e ir com os outros, mas ele n\u00E3o quis me deixar aqui, por favor senhor leve meu filho com voc\u00EA para um lugar a salvo, a \u00FAltima coisa que gostaria \u00E9 que algo acontecesse com ele."
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "event": {
+        "type": "DECISION",
+        "value": "2"
+      }
+    },
+    {
+      "event": {
+        "type": "GOTO",
+        "value": "GoToSaveBoth"
+      }
+    },
+    {
+      "event": {
+        "type": "BATTLE",
+        "value": "battle0.json"
+      }
+    },
+    {
+      "event": {
+        "type": "GOTO",
+        "value": "GoToArriveAtTheVillage"
+      }
+    },
+    {
+      "event": {
+        "type": "GOTO",
+        "value": "GoToNarrations"
+      }
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Querida, estes s\u00E3o os seus morangos, hoje e o seu anivers\u00E1rio, voc\u00EA deveria estar aproveitando, venha vamos embora."
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": "Qual o seu problema? Essas pessoas precisam de ajuda! Como voc\u00EA pode ser t\u00E3o mesquinho?"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "event": {
+        "type": "DECISION",
+        "value": "3"
+      }
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "\"Voc\u00EA se d\u00E1 conta do qu\u00E3o ego\u00EDsta estava sendo nessa situa\u00E7\u00E3o. Voc\u00EA pede desculpas e diz que se deixou levar, devolve os morangos ao garoto e no fim voc\u00EAs v\u00E3o embora.\""
+    },
+    {
+      "event": {
+        "type": "GOTO",
+        "value": "GoToVillage"
+      }
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "N\u00E3o se preocupe, farei isso por voc\u00EA."
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "\"Apesar da relut\u00E2ncia do garoto em deixar sua m\u00E3e, voc\u00EA consegue convenc\u00EA-lo a ir com voc\u00EA e seguir em frente.\""
+    },
+    {
+      "event": {
+        "type": "GOTO",
+        "value": "GoToSequenceFromSaveChild"
+      }
+    },
+    {
+      "event": {
+        "type": "TRANSITION",
+        "value": "transition0.json"
+      }
+    },
+    {
+      "backgroundSound": "Tranquila",
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceSchwartz",
+        "name": "Schwartz"
+      },
+      "value":"\"Reflete um pouco sobre a quest\u00E3o, mas, por fim, se anima com a ideia, aceita o menino e os convida para jantar em sua casa\""
+    },
+    {
+      "event": {
+        "type": "GOTO",
+        "value": "GoToPicNic"
+      }
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "\"Voc\u00EA insiste que os morangos s\u00E3o da sua filha e os toma de volta.\""
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": "Voc\u00EA n\u00E3o tem cora\u00E7\u00E3o? Esses dois claramente precisam de ajuda e voc\u00EA nega um gesto t\u00E3o simples da sua filha baseado em ego\u00EDsmo? Francamente, eu me recuso a participar disso!"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": "Ela se revolta e vai embora ao passo que voc\u00EA arrasta sua filha a contragosto, quando chegam na vila ela foge e ap\u00F3s ter atravessado o mercado voc\u00EA n\u00E3o consegue mais encontr\u00E1-la."
+    },
+    {
+      "event": {
+        "type": "GOTO",
+        "value": "GoToGameOver"
+      }
+    },
+    {
+      "event": {
+        "type": "TRANSITION",
+        "value": "transition0.json"
+      }
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceUnknown",
+        "name": "Unknown"
+      },
+      "value": "(choro)",
+      "event": {
+        "type": "SOUND",
+        "value": "choro"
+      }
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "..."
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceUnknown",
+        "name": "Unknown"
+      },
+      "value": "(choro)",
+      "event": {
+        "type": "SOUND",
+        "value": "choro"
+      }
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "\"Quando a coragem lhe acomete voc\u00EA abre a porta, a mulher que voc\u00EA ouve chorar \u00E9 Malu, que est\u00E1 ajoelhada de costas para a porta. Ao se aproximar voc\u00EA v\u00EA o inferno diante dos seus olhos.\""
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": "Eu falhei, eu n\u00E3o fui capaz\u2026"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": "... (ambos choram)",
+      "event": {
+        "type": "SOUND",
+        "value": "choro"
+      }
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "\"Ver o cad\u00E1ver do que foi sua filha lhe faz confrontar n\u00E3o somente a morte dela, bem como a sua tamb\u00E9m, a vida que voc\u00EA viveu, bem como a que voc\u00EA viveria, mortas diante de voc\u00EA. Vidas furtadas. O que ser\u00E1 do piquenique? O que ser\u00E3o os lijks? O que ser\u00E3o as noites sem o brilho daquele sorriso? Que vida lhe restou ent\u00E3o?\""
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": "Por que n\u00E3o eu? Muito melhor teria sido eu! Como faremos agora sem voc\u00EA lana?"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "event": {
+        "type": "DECISION",
+        "value": "4"
+      }
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Ela n\u00E3o merecia ter morrido assim! T\u00E3o jovem! Onde voc\u00EA estava que n\u00E3o a protegeu?"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "Nome": "Malu"
+      },
+      "value": "Eu havia ido ca\u00E7ar algo para jantarmos, s\u00F3 ouvi os gritos da vila na floresta, corri o mais r\u00E1pido que pude temendo por Lana, mas quando eu cheguei j\u00E1 era tarde demais"
+    },
+    {
+      "event": {
+        "type": "GOTO",
+        "value": "GoToMaluExplanation"
+      }
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "N\u00E3o havia como voc\u00EA proteg\u00EA-la sozinha. Eu conhe\u00E7o sua bravura, mas mesmo o mais bravo dos homens n\u00E3o seria p\u00E1reo para um batalh\u00E3o"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Covardes! Ela era apenas uma crian\u00E7a! N\u00E3o seria capaz de resistir! Como eles puderam?"
+    },
+    {
+      "event": {
+        "type": "GOTO",
+        "value": "GoToMaluExplanation"
+      }
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": "..."
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Devemos lev\u00E1-la para os druidas, ela precisa ser exumada."
+    },
+    {
+      "event": {
+        "type": "TRANSITION",
+        "value": "transition0.json"
+      }
+    },
+    {
+      "background": "ruinas",
+      "backgroundSound": "Tensao",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Voc\u00EAs n\u00E3o est\u00E3o incomodados com a desgra\u00E7a que aqueles malditos sanguin\u00E1rios trouxeram."
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": "Que droga de pergunta \u00E9 essa? Como n\u00E3o estar\u00EDamos?"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Se est\u00E3o, por que eu n\u00E3o vejo ningu\u00E9m fazer nada a respeito?"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": "Eles s\u00E3o um ex\u00E9rcito claramente maior e melhor armado, al\u00E9m do mais, sequer sabemos de onde s\u00E3o. Como espera que fa\u00E7amos alguma coisa?"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Pois que se dane! Aqueles malditos n\u00E3o podem sair impunes! Eles mataram a Lana!"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBrayan",
+        "name": "Brayan"
+      },
+      "value": "Entendemos a sua dor, mas n\u00E3o adianta se deixar levar pela raiva."
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "N\u00E3o! Voc\u00EAs n\u00E3o entendem! Lana era tudo o que eu tinha! Voc\u00EAs n\u00E3o seriam capazes de compreender a minha dor!"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": "N\u00E3o seja t\u00E3o egoc\u00EAntrico! Quando Evelyn morreu ela tamb\u00E9m era minha \u00FAnica fam\u00EDlia, voc\u00EA sabe que perdemos nossos pais cedo, ent\u00E3o, sem minha irm\u00E3, Lana foi o que restou de minha fam\u00EDlia assim como foi para voc\u00EA!"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "E ent\u00E3o o que fez voc\u00EA por ela? N\u00E3o vejo ningu\u00E9m deixar seu conforto para tomar uma iniciativa!"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": "O que fez voc\u00EA ent\u00E3o seu turr\u00E3o mesquinho? Al\u00E9m de nos atacar com sua f\u00FAria por uma dor que tamb\u00E9m nos afeta?"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Ao menos com isso voc\u00EA se preocupou. \u00C9 por isso que os chamei aqui. Eu quero vingan\u00E7a, e quero saber se voc\u00EAs est\u00E3o comigo."
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": "Voc\u00EA est\u00E1 louco! Como espera enfrentar um ex\u00E9rcito?"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "N\u00E3o importa! S\u00F3 sei que eu preciso, e farei!"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBrayan",
+        "name": "Brayan"
+      },
+      "value": "Pois sem outro ex\u00E9rcito voc\u00EA n\u00E3o ter\u00E1 chance. O nosso ex\u00E9rcito provavelmente j\u00E1 n\u00E3o teria, assim como nossos irm\u00E3os n\u00E3o tiveram."
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Por que insulta nossos guerreiros Brayan?"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBrayan",
+        "name": "Brayan"
+      },
+      "value": "N\u00E3o \u00E9 insulto, \u00E9 a verdade, nenhuma das aldeias seria p\u00E1reo para esses tiranos."
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Pois iremos todos! Eles provar\u00E3o de nossa for\u00E7a! Eu lhes mostrarei minhas armas!"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBrayan",
+        "name": "Brayan"
+      },
+      "value": "Voc\u00EA est\u00E1 cego pela f\u00FAria, as tribos nunca uniriam for\u00E7as, existem conflitos ancestrais entre n\u00F3s."
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Conflitos tolos! Eles mataram nosso povo e continuar\u00E3o matando. Se isso n\u00E3o bastar para nos unirmos, esses homens ser\u00E3o loucos."
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBrayan",
+        "name": "Brayan"
+      },
+      "value": "Talvez, mas eles n\u00E3o o ouviriam."
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Ouviriam voc\u00EA ent\u00E3o! o sucessor de Denzel, o arquidruida."
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBrayan",
+        "name": "Brayan"
+      },
+      "value": "Provavelmente, mas justamente por herdar o legado de Denzel eu n\u00E3o posso deixar a vila."
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "event": {
+        "type": "DECISION",
+        "value": "5"
+      }
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Vai permitir que outros mais morram por essas tolices?"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBrayan",
+        "name": "Brayan"
+      },
+      "value": "Tolices? Socorrer os enfermos \u00E9 tolice? Voc\u00EA prefere deixar que os outros morram pelo seu ego\u00EDsmo? A perda deles n\u00E3o significa nada? Somente Lana era digna de viver? Voc\u00EA precisa olhar al\u00E9m de sua raiva Berengar."
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "event": {
+        "type": "DECISION",
+        "value": "6"
+      }
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Eu me deixei levar pela dor"
+    },
+    {
+      "event": {
+        "type": "GOTO",
+        "value": "GoToBrayanExplanation"
+      }
+    },
+    {
+      "event": {
+        "type": "TRANSITION",
+        "value": "transition0.json  // TODO AQUI EH DE ONDE A DECISAO 5.2 SAI"
+      }
+    },
+    {
+      "event": {
+        "type": "GOTO",
+        "value": "GameOver"
+      }
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Vidas dependem disso! Voc\u00EA n\u00E3o pode deixar outro em seu lugar?"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBrayan",
+        "name": "Brayan"
+      },
+      "value": "Talvez, apesar disso poder desestabilizar ainda mais a rotina da vila, mas pode ser a nos \u00FAnica chance de nos protegermos."
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Pois ent\u00E3o, que assim seja!"
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": "Parece uma boa ideia, contem comigo. Lana n\u00E3o pode ser esquecida!"
+    },
+    {
+      "event": {
+        "type": "GOTO",
+        "value": "GoToAppendix"
+      }
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceBrayan",
+        "name": "Brayan"
+      },
+      "value": "Eu tenho deveres em meu novo posto. A vila n\u00E3o pode ficar sem uma lideran\u00E7a dru\u00EDdica."
+    },
+    {
+      "background": "ruinas",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": "Mas voc\u00EA n\u00E3o pode deixar que outro assuma em sua aus\u00EAncia?"
+    },
+    {
+      "event": {
+        "type": "GOTO",
+        "value": "GoToIsNecessary"
+      }
+    },
+    {
+      "event": {
+        "type": "TRANSITION",
+        "value": "transition0.json"
+      }
+    },
+    {
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceSoldier",
+        "name": "Soldier"
+      },
+      "value": "Alto l\u00E1! Quem se aproxima?"
+    },
+    {
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Cidad\u00E3os da vila Blume! Viemos em busca de aux\u00EDlio!"
+    },
+    {
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceSoldier",
+        "name": "Soldier"
+      },
+      "value": "Que tipo de aux\u00EDlio?"
+    },
+    {
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceBerengar",
+        "name": "Berengar"
+      },
+      "value": "Fomos atacados e precisamos de refor\u00E7os."
+    },
+    {
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceSoldier",
+        "name": "Soldier"
+      },
+      "value": "Já temos problemas demais para lidar sozinhos, não precisamos que estranhos nos tragam mais apuros."
+    },
+    {
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceMalu",
+        "name": "Malu"
+      },
+      "value": "Apuros voc\u00EAs v\u00E3o ter se n\u00E3o deixarem a gente passar! Essa incredulidade quase nos destruiu! Ent\u00E3o \u00E9 melhor sair da frente, porque se isso n\u00E3o destruir voc\u00EAs, eu vou!"
+    },
+    {
+      "background": "vila barbara",
+      "speaker": {
+        "portrait": "FaceSoldier",
+        "name": "Soldier"
+      },
+      "value": "Voc\u00EA \u00E9 deveras corajosa, ou louca, provavelmente ambas. Sua ast\u00FAcia despertou meu interesse. Falarei com Krej."
+    },
+    {
+      "event": {
+        "type": "TRANSITION",
+        "value": "transition0.json"
+      }
+    },
+    {
+      "event": {
+        "type": "GOTO",
+        "value": "GoToVillageMenu"
+      }
+    }
+  ]
+}
